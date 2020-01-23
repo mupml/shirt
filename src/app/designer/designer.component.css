@@ -54,6 +54,6 @@
     position: absolute;
     left: 95px;
     top: 90px;
-    max-width: 110px;
-    max-height: 120px;
+    width: 110px;
+    max-height: 150px;
 }
