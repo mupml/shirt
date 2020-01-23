@@ -1,0 +1,15 @@
+{
+    "mupshirt": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-shirt-mupshirt-183718-authRole",
+            "UnauthRoleArn": "arn:aws:iam::250286007225:role/amplify-shirt-mupshirt-183718-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::250286007225:role/amplify-shirt-mupshirt-183718-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-shirt-mupshirt-183718-deployment",
+            "UnauthRoleName": "amplify-shirt-mupshirt-183718-unauthRole",
+            "StackName": "amplify-shirt-mupshirt-183718",
+            "StackId": "arn:aws:cloudformation:eu-west-1:250286007225:stack/amplify-shirt-mupshirt-183718/6464f170-3e0f-11ea-a520-0609694b6370",
+            "AmplifyAppId": "d1wwki0wbc554u"
+        }
+    }
+}
